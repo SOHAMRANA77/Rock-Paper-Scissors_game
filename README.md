@@ -47,20 +47,17 @@ python main_menu.py
 ## Screenshots
 
 ![Screenshot 1](https://github.com/SOHAMRANA77/Rock-Paper-Scissors_game/blob/f24cc2be71b555d14d6fd995aa0dcb227b38eb2c/Image/Screenshot%201.png)
-```
 
-The screenshot displays the graphical user interface (GUI) of the Rock, Paper, Scissors game implemented in Pygame. The interface includes the following key elements:
-
+The screenshot displays the graphical user interface (GUI) of the Rock, Paper, Scissors game implemented in Pygame.The interface includes the following key elements:
 Game Buttons:
-
-Three interactive buttons labeled "Rock," "Paper," and "Scissors" that represent the user's choices during the game. The buttons are designed for user interaction to make their move in the game.
+Three interactive buttons labeled "Rock," "Paper," and "Scissors" that represent the user's choices during the game. The buttons are designed for user interaction to 
+make their move in the game.
 User and Computer Points:
-
-Displayed scores or points for both the user and the computer, indicating the number of rounds won by each player. This provides a clear representation of the ongoing score during the game.
+Displayed scores or points for both the user and the computer, indicating the number of rounds won by each player. This provides a clear representation of the ongoing 
+score during the game.
 Game Board:
-
-A graphical representation of the game board that dynamically updates to show the results of each round. It displays whether the user won, lost, or if the round was a tie against the computer's choice. This section enhances the interactive and competitive aspect of the game.
-```
+A graphical representation of the game board that dynamically updates to show the results of each round. It displays whether the user won, lost, or if the round was a 
+tie against the computer's choice. This section enhances the interactive and competitive aspect of the game.
 
 ## License
 
